@@ -1,0 +1,35 @@
+Phase 1:
+Do you consider yourself successful?
+I definitely consider myself successful. I strongly believe that I have learnt a lot from my past experiences and grown from them. I am certain that I will continue to do so in the future.
+
+What will you do if you don’t get a position of your choice at this place?
+Uh, I am not sure about that yet, but I think that I might try my hand at a few other places as well.
+
+Phase 3:
+Are you a team player? Why or why not? 2
+-Yes, definitely. I am the one person every leader would want in his team. I have a great team spirit and like to work together with many people. I have strong communication skills. Whatever task is assigned to me, I make sure it meets and exceeds what is expected of me. I also make it a point to reach out to teammates whenever needed.
+- Yes. I am a team player. I have a strong team spirit. I like working together and collaborating with people. My communication skills are pretty strong too. I also sincerely complete the tasks assigned to me.
+
+What is your philosophy towards work? 3
+-I have only one philosophy when it comes to work: every piece of work, regardless of size, has to be done on time and in the right manner.
+-I believe that every piece of work must be completed on time and in the right way.
+
+What do you think are the soft skills required of a data scientist? 4
+-Curiosity, business acumen, communication skills, team work, team spirit, business writing, problem solving.
+-Business knowledge, communication skills, team work, management, problem solving.
+
+Describe your management style. 3
+-Basically, my management style comes with promptness and flexibility. To make sure goals are achieved, I religiously study and make plans down to the smallest detail. While I do implement a strict sense of being time bounded, I also add reasonable allowances and make room for contingencies.
+-My management style is all about planning every detail and working in a time bound manner. I think that flexibility is also important.
+
+-What (hard) skills do you have? 4
+-I am familiar with Python, R, statistics, probability, machine learning, deep learning, data science, data mining, data visualisation, natural language processing (NLP), keras, tensorflow.
+-I am proficient in Python, statistics, machine learning, deep learning, data visualisation and nlp. I am familiar with keras and tensorflow.
+
+Are you willing to work overtime? Nights? Weekends? 2
+-Yes. I understand that being asked to work for an extended number of hours comes with a good reason in the first place, so I’m ok with it. It an extra effort means something for the company, I’ll be happy to do it.
+-Yes. I believe that there is a good reason for working overtime. I am fine with working extra hours. In fact, I will be more than happy to do it.
+
+Do your skills match this job or another job more closely? 1
+-I feel my skills are the best fit for this job.
+-I think that my skills are the best match for this job.

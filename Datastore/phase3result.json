@@ -1,0 +1,37 @@
+{
+    "4": {
+        "ques": "What is your philosophy towards work?",
+        "exp": "I have only one philosophy when it comes to work: every piece of work, regardless of size, has to be done on time and in the right manner.",
+        "act": "I have only one philosophy when it comes to work: every piece of work, regardless of size, has to be done on time",
+        "dif": "3",
+        "score": 30.0
+    },
+    "5": {
+        "ques": "Describe your management style.",
+        "exp": "Basically, my management style comes with promptness and flexibility. To make sure goals are achieved, I religiously study and make plans down to the smallest detail. While I do implement a strict sense of being time bounded, I also add reasonable allowances and make room for contingencies.",
+        "act": "My management style is all about planning every detail and working in a time bound manner. I think that flexibility is also important.",
+        "dif": "3",
+        "score": 12.0
+    },
+    "3": {
+        "ques": "Are you willing to work overtime? Nights? Weekends?",
+        "exp": "Yes. I understand that being asked to work for an extended number of hours comes with a good reason in the first place, so I\u00edm ok with it. It an extra effort means something for the company, I will be happy to do it.",
+        "act": "es. I understand that being asked to work for an extended number of hours comes with a good reason in the first place, so I\u00edm ok with it. It an extra effort means something for the company, I\u00edll be happy to do it.",
+        "dif": "2",
+        "score": 20.0
+    },
+    "6": {
+        "ques": "Do your skills match this job or another job more closely? ",
+        "exp": "I feel my skills are the best fit for this job.",
+        "act": "I think that my skills are the best match for this job.",
+        "dif": "4",
+        "score": 32.0
+    },
+    "2": {
+        "ques": "Are you a team player? Why or why not?",
+        "exp": "Yes, definitely. I am the one person every leader would want in his team. I have a great team spirit and like to work together with many people. I have strong communication skills. Whatever task is assigned to me, I make sure it meets and exceeds what is expected of me. I also make it a point to reach out to teammates whenever needed.",
+        "act": "Yes. I am a team player. I have a strong team spirit. I like working together and collaborating with people. My communication skills are pretty strong too. I also sincerely complete the tasks assigned to me.",
+        "dif": "2",
+        "score": 12.0
+    }
+}
